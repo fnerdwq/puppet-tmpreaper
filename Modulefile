@@ -1,0 +1,8 @@
+name    'fnerdwq-tmpreaper'
+version '0.0.1'
+source 'https://github.com/fnerdwq/puppet-vim.git'
+author 'Frederik Wagner'
+license 'Apache License, Version 2.0'
+summary 'Puppet module for tmpreaper'
+description 'Small tmpreaper configuration module'
+project_page 'https://github.com/fnerdwq/puppet-tmpreaper'
